@@ -1,4 +1,4 @@
-- Streamlit Lecture 4 Warning --
+- Streamlit Lecture 4 Warning 
 
 I have noticed that some of the packages used in the Streamlit lecture are outdated. However, the author intentionally used the older versions to demonstrate specific methods without encountering any errors. Here are some suggestions to ensure smooth execution:
 
