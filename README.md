@@ -1,3 +1,20 @@
+- Selenium Tutorial - Checking Chrome Version
+
+Before installing the Selenium package (`pip install selenium`), it is important to check the version of the web browser you are using. Selenium supports various popular web browsers including Chrome, Firefox, and others. Here is a simplified tutorial specifically for checking the Chrome version:
+
+1. Click on the sidebar menu (three dots at the top right corner) in Chrome.
+2. Select "說明" (Help) from the menu.
+3. Click on "關於Google" (About Google) from the dropdown.
+4. A new tab will open, displaying information about your Chrome browser, including the version number.
+
+Once you know your Chrome version, you can visit the following link to find the appropriate version of ChromeDriver that matches your Chrome browser:
+
+[Chrome for Testing](https://googlechromelabs.github.io/chrome-for-testing/)
+
+At this link, you will find a list of available Chrome versions along with their corresponding ChromeDriver versions. Make sure to choose the ChromeDriver version that matches your Chrome browser version for optimal compatibility.
+
+--------
+
 - Streamlit Lecture 4 Warning -
 
 I have noticed that some of the packages used in the Streamlit lecture are outdated. However, the author intentionally used the older versions to demonstrate specific methods without encountering any errors. Here are some suggestions to ensure smooth execution:
