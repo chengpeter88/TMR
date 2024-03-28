@@ -1,0 +1,13 @@
+prefix=/Users/heng/Documents/TMR/.conda
+exec_prefix=/Users/heng/Documents/TMR/.conda
+libdir=/Users/heng/Documents/TMR/.conda/lib
+sharedlibdir=/Users/heng/Documents/TMR/.conda/lib
+includedir=/Users/heng/Documents/TMR/.conda/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
