@@ -24,4 +24,3 @@ This command will download the English language model to your local machine.
 
 4. Lastly, for other packages, you can either use the latest version with `pip install`, or if you prefer using conda, you can use `conda install` to install and manage the packages.
 
-I hope these optimizations and clarifications help you navigate the Streamlit Lecture 4 more effectively. If you have any further questions or need assistance with Python or any other topic, feel free to ask. Happy coding!
